@@ -1,2 +1,2 @@
 # Treinamento_Git
-Repositorio Versionado
+Repositorio Versionado (apredendo sobre o Git)
